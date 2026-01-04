@@ -1,0 +1,1 @@
+# go_for_small_project_first_then_for_world
